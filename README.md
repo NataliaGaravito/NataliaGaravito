@@ -1,4 +1,4 @@
-# Hola a todxs 🤗
+# Hola a tod@s 🤗
 
 ### 👩🏻 Soy Fron End Developer e ingeniera mecatrónica. 
 
