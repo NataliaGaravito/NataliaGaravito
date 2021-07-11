@@ -13,5 +13,7 @@ En el proceso de estudiar **Ingeniería Mecatrónica** 🤖 descubrí una gran p
 
 Ante mi pasión por la programación, me topé con el **bootcamp de Laboratoria** 💛, donde me formé como **Front End Developer**. Realice proyectos basados en **JavaScript**, utilizando fundamentos de programación, manipulando dinámicamente el DOM, teniendo control de versiones GIT, manejo de paquetes NPM, NodeJs, consumo de APIs y **React** ⚛️. 
 
-En este lugar no solo aprendí sobre programación web, sino también me he descubierto como persona 🙌. Entendiendo que esta pasión que tengo por **innovar y tecnificar**, radica en que siempre he sido muy **perseverante** y a pesar de las dificultades que se presenten 👊🏻, obtener el mejor provecho de ellas y dejar en mí una enseñanza valiosa, que aporte en mi continuo **crecimiento personal y profesional** 🤯. 
+En Laboratoria no solo aprendí sobre programación web, sino también me he descubierto como persona 🙌; entendiendo que tengo una gran afinidad por proponer diferentes **soluciones para la resolución de conflictos**; esto radica en que siempre he sido muy **perseverante** 👊🏻, trato obtener el mejor provecho de cada situacion y dejar una enseñanza valiosa, que aporte en mi continuo **crecimiento personal y profesional**🤯.
+
+***Esto lo puedo relacionar fuertemente a mi pasión caminatas ecológicas ☘️, porque cuando llegas al destino que esperabas no hay nada más satisfactorio que ver lo que has sido capaz de conseguir😲, y todas las cosas maravillosas que te hacen falta por conocer 🌎.***
 
