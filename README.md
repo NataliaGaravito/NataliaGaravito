@@ -1,4 +1,4 @@
-# Hola a tod@s  <img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" width="100" />
+# Hola a tod@s
 
 ### 👩🏻 Soy Fron End Developer e Ingeniera Mecatrónica. 
 
